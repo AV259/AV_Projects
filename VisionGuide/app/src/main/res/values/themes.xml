@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.VisionGuide" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">#121212</item>
+        <item name="colorPrimary">#FF6F00</item> <!-- Orange for active UI -->
+        <item name="android:textColorPrimary">#FFFFFF</item>
+    </style>
+</resources>
