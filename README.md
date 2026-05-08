@@ -18,6 +18,14 @@ Features
 - Azure VM deployment with REST API inference service
 - Mobile backend integration
 
+# App Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9679ad79-be42-42a0-89ed-b92c906e7289" width="30%" />
+  <img src="https://github.com/user-attachments/assets/c14ffb87-0191-40e2-8a05-4b317acdc056" width="30%" />
+  <img src="https://github.com/user-attachments/assets/bd749bd0-9eb0-4917-8f5e-7f7a996985c1" width="30%" />
+</p>
+
  ## Architecture Overview
 
                  +------------------+
